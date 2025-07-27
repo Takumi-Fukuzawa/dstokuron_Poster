@@ -37,7 +37,7 @@
 
 ## リポジトリ構成 (Repository Structure)
 .
-├── PCA_ver.2/
+PCA_ver.2/
 │   ├── βexplained_variance.csv  # 主成分ごとの寄与率・累積寄与率
 │   ├── βloadings.csv             # 主成分負荷量
 │   ├── βtransformed_data.csv    # 主成分得点（全主成分）
